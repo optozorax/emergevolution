@@ -8,6 +8,7 @@ image: submodules/emergevolution/img/1.png
 submodule: true
 thisname: submodules/emergevolution
 date: 2020-08-24
+github: https://github.com/optozorax/emergevolution
 ---
 
 {% include_relative README.md %}
